@@ -1,0 +1,14 @@
+para utilizar este programa utilice python 3.10+
+
+ejecute el programa desde main.py para que se abra la ventana principal
+
+Genere el conjunto de datos para poder utilizar el programa
+1.seleccione el tamaño del conjunto.
+2.presione el boton generar
+
+asi se generará una lista con valores aleatorios y desordenados entre 1 y el valor seleccionado
+
+se habilitaran los botones de busqueda lineal y binaria que realizaran su busqueda respectiva
+En el espacio inferior se mostrara si se encontro o no y en caso de encontrarse mostrara el tiempo que tardo en encontrarlo
+
+La tabla es logaritmica para mostrar mejor los resultados de busqueda
