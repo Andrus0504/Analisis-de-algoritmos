@@ -1,1 +1,1 @@
-# Analisis-de-algoritmos
+# Repositorio para la materia analisis de algoritmos
